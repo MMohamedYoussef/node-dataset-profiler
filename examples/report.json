@@ -1,0 +1,31 @@
+{
+  "rows": 4,
+  "columns": [
+    {
+      "name": "campaign",
+      "type": "text",
+      "missing": 0,
+      "distinct": 4
+    },
+    {
+      "name": "spend_usd",
+      "type": "number",
+      "missing": 0,
+      "distinct": 3,
+      "min": 850,
+      "max": 1200.5
+    },
+    {
+      "name": "launch_date",
+      "type": "date",
+      "missing": 0,
+      "distinct": 4
+    },
+    {
+      "name": "owner",
+      "type": "text",
+      "missing": 1,
+      "distinct": 2
+    }
+  ]
+}
